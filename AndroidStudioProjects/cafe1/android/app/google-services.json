@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1024656066031",
+    "project_id": "cafe-a185d",
+    "storage_bucket": "cafe-a185d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024656066031:android:a9f893bcee6b7bacb1221a",
+        "android_client_info": {
+          "package_name": "com.example.cafe1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1IuqGoQElyvCZIOxtamlIe9fqsGSG0FU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
