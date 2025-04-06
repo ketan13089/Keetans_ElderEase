@@ -1,6 +1,6 @@
 # ElderEase
 
-A new Flutter project.
+A app for Elder People to track their health and provide alerts
 
 ## Getting Started
 
