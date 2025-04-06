@@ -1,4 +1,4 @@
-# flutter_projects
+# ElderEase
 
 A new Flutter project.
 
